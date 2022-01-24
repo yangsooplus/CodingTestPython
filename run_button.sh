@@ -1,1 +1,1 @@
-python3 Search/바이러스.py
+python3 Search/미로탐색.py
