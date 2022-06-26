@@ -33,6 +33,14 @@
         "version": 783,
         "index": 546
       }
+    ],
+    "String/AC.py": [
+      {
+        "id": "ece440b7-2d13-4a20-9931-ed48da393f07",
+        "line": 1,
+        "version": 830,
+        "index": 0
+      }
     ]
   }
 }

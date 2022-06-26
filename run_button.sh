@@ -1,1 +1,1 @@
-python3 Search/치킨배달.py
+python3 String/팰린드롬만들기.py
