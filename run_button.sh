@@ -1,1 +1,1 @@
-python3 String/팰린드롬만들기.py
+python3 String/그룹단어체커.py
