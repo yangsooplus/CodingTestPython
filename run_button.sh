@@ -1,1 +1,1 @@
-python3 String/그룹단어체커.py
+python3 Implementation/테트로미노.py
