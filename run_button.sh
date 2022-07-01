@@ -1,1 +1,1 @@
-python3 Implementation/한줄로서기.py
+python3 Implementation/프린터큐.py
