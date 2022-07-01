@@ -1,1 +1,1 @@
-python3 Implementation/테트로미노.py
+python3 Implementation/한줄로서기.py
